@@ -17,3 +17,5 @@ Outputs:
 1. compactness  : sum of squared distance from each point to their corresponding centers
 2. labels       : labels for k-means (labeled as '0', '1' etc
 
+As you increase k, compactness decreases. 
+k-means in this case mostly compresses the image files. 
