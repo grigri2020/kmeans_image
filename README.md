@@ -14,6 +14,6 @@ Parameters to use for k-means:
 
 Outputs:
 =========
-compactness  : sum of squared distance from each point to their corresponding centers.
+compactness  : sum of squared distance from each point to their corresponding centers
 labels       : labels for k-means (labeled as '0', '1' ..etc
 
