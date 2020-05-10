@@ -1,5 +1,5 @@
 # kmeans_image
-Use k-means to cluster an image. This is mostly to compress the image.
+Use k-means to cluster an image. This is mostly to compress the image. Using data of a biopsy image from random google search. The example file is "cancer.jpg". Png does not work in this case so please convert your png to jpeg. 
 
 Method:
 =======
